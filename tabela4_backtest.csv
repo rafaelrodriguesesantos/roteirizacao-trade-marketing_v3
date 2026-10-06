@@ -1,0 +1,5 @@
+Nível;Modelo;MAE (R$);WAPE (%);Viés (%)
+Loja-dia;Modelo (com efeito de visita);867,03;76,43;4,87
+Loja-dia;Benchmark (sem efeito de visita);868,14;76,53;5,14
+Loja-mês;Modelo (com efeito de visita);7138,13;20,63;4,87
+Loja-mês;Benchmark (sem efeito de visita);7170,18;20,72;5,14

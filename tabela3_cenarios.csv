@@ -1,0 +1,7 @@
+Cenário;Visitas;Δ visitas %;Δ faturamento (R$);Δ %;IC95% inf (R$);IC95% sup (R$);R$ por visita extra;Δ% na validação (jan-fev/26)
+"Top 40% (90 lojas), seg–sex; sem Tier 2";3960;19,21;98437,2;0,64;62679,58;139842,5;154,29;
+PRINCIPAL: Tier 1 (90) seg–sex + Tier 2 (44) quarta;4356;31,13;116921,47;0,75;71225,7;167623,63;113,08;
+Tier 1 (90) seg–sex + Tier 2 (44) terça e quarta;4752;43,05;160975,79;1,04;102483,49;224524,22;112,57;
+Orçamento constante (≈100% das visitas) — 118 lojas × 3 dias (Qua+Ter+Qui), escolhida na validação;3186;-4,09;9226,84;0,06;-13945,95;36999,67;;0,28
+Orçamento ≈125% — 94 lojas × 5 dias (Qua+Ter+Qui+Seg+Sex), escolhida na validação;4136;24,5;116273,37;0,75;76961,79;160946,25;142,84;0,61
+Orçamento ≈150% — 117 lojas × 5 dias (Qua+Ter+Qui+Seg+Sex), escolhida na validação;5148;54,97;203439,44;1,31;137768,98;273839,81;111,41;0,89

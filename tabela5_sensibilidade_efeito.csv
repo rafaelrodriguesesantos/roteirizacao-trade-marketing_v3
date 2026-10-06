@@ -1,0 +1,6 @@
+Cenário do efeito;Variação receita (R$);Variação %
+Efeito estimado (ponto);116921,47;0,75
+Limite inferior (IC95% bootstrap);71225,7;0,46
+Limite superior (IC95% bootstrap);167623,63;1,08
+Sem efeito negativo em Suprimento (multiplicador = 1);376949,37;2,43
+Efeito de Hardware 20% menor que o estimado;4777,5;0,03

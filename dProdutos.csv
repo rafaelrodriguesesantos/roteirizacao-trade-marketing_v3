@@ -1,0 +1,283 @@
+﻿ID Produto;Produto;Tipo;Subcategoria
+5006;Cilindro p/ laser DRB021 CX 1 UN;Suprimento;Cilindro
+213119;Multifuncional tanque de tinta Colorido DCP-T430W CX 1 UN;Hardware;Multifuncional
+213120;Multifuncional tanque de tinta Colorido DCP-T530DW CX 1 UN;Hardware;Multifuncional
+217366;Cartucho toner p/ preto TNB021BR CX 1 UN;Suprimento;Cartucho
+217470;Cartucho p/ magenta LC79M CX 1 UN;Suprimento;Cartucho
+217494;Cartucho p/ magenta LC505M CX 1 UN;Suprimento;Cartucho
+217496;Cartucho p/ preto LC509BK CX 1 UN;Suprimento;Cartucho
+217497;Cartucho p/ amarelo LC505Y CX 1 UN;Suprimento;Cartucho
+217713;Cartucho toner p/ preto TN1060BR CX 1 UN;Suprimento;Cartucho
+217715;Cartucho toner p/ preto TN2370 CX 1 UN;Suprimento;Cartucho
+217717;Cartucho toner p/ preto TN-2340BR CX 1 UN;Suprimento;Cartucho
+218777;Refil p/InkTank preto BTD100BK CX 1 UN;Suprimento;Refil de Tinta
+218778;Refil p/InkTank ciano BTD100C CX 1 UN;Suprimento;Refil de Tinta
+218779;Refil p/InkTank magenta BTD100M CX 1 UN;Suprimento;Refil de Tinta
+218780;Refil p/InkTank amarelo BTD100Y CX 1 UN;Suprimento;Refil de Tinta
+218781;Refil p/InkTank preto BTD1002PK CX 1 UN;Suprimento;Refil de Tinta
+218782;Refil p/InkTank ciano/magenta/amarelo BTD1003PK CX 1 UN;Suprimento;Refil de Tinta
+218784;Cartucho toner p/ . TN116BR CX 1 UN;Suprimento;Cartucho
+220399;Impressora laser . HLB2080DW UN 1 UN;Hardware;Impressora
+220442;Multifuncional laser DCP B7535DW CX 1 UN;Hardware;Multifuncional
+221319;Etiqueta p/impressora térmica 29mmx90mm DK1201 RL 400 UN;Hardware;Impressora
+312700;Fita p/rotulador 12mmx8m branca m231 BT 1 UN;Hardware;Rotulador
+665234;Rotulador eletrônico portátil c/ 3 fitas PTH110BP CX 1 UN;Hardware;Rotulador
+665280;Rotulador eletrônico branco PTM95WT CX 1 UN;Hardware;Rotulador
+665281;Rotulador eletrônico preto PTM95BK CX 1 UN;Hardware;Rotulador
+665282;Rotulador eletrônico branco c/ 3 fitas PTM95WTBP CX 1 UN;Hardware;Rotulador
+665283;Rotulador eletrônico preto c/ 3 fitas PTM95BKBP CX 1 UN;Hardware;Rotulador
+665938;Scanner portátil de mesa duplex ADS3100 UN 1 UN;Hardware;Scanner
+675990;Máquina para recorte c/Scanner ScanNCut 110v SDX85 CX 1 UN;Hardware;Scanner
+676051;Esteira adesiva de aderencia padrão 30x30cm CADXMATSTD PT 1 UN;Suprimento;Cilindro
+676059;Lâmina de corte automática pt p/ ScanNCut SDX CADXBLD1 PT 1 UN;Hardware;Máquina de Costura
+676060;Lâmina de corte aut p/tec bege p/ScanNCut SDX CADXBLDQ1 PT 1 UN;Hardware;Máquina de Costura
+676062;Suporte de Lâmina automát. p/tecidos bege SDX CADXHLDQ1 PT 1 UN;Suprimento;Outros Suprimentos
+676102;Kit inicial de vinil CADXVBKIT1 UN 1 UN;Suprimento;Outros Suprimentos
+797702;Refil p/InkTank ciano BT5001C CX 1 UN;Suprimento;Refil de Tinta
+797703;Refil p/InkTank magenta BT5001M CX 1 UN;Suprimento;Refil de Tinta
+797704;Refil p/InkTank amarelo BT5001Y CX 1 UN;Suprimento;Refil de Tinta
+797706;Refil p/InkTank preto BTD60BK CX 1 UN;Suprimento;Refil de Tinta
+797721;Refil p/InkTank kit 3 cores BT50013PK PT 3 UN;Suprimento;Refil de Tinta
+797722;Refil p/InkTank kit c/ 2 preto BTD602PK CX 2 UN;Suprimento;Refil de Tinta
+5009;Cilindro laser DR3302 CX 1 UN;Suprimento;Cilindro
+5014;Cilindro p/ laser DR1060 CX 1 UN;Suprimento;Cilindro
+5016;Cilindro laser DR3440 CX 1 UN;Suprimento;Cilindro
+5017;Cilindro p/ laser DR2340 CX 1 UN;Suprimento;Cilindro
+5021;Cartucho toner p/ preto TN3602XLBR CX 1 UN;Suprimento;Cartucho
+5025;Cartucho toner p/ preto TN219BKBR CX 1 UN;Suprimento;Cartucho
+5026;Cartucho toner p/ ciano TN219CBR CX 1 UN;Suprimento;Cartucho
+5027;Cartucho toner p/ magenta TN219MBR CX 1 UN;Suprimento;Cartucho
+5028;Cartucho toner p/ amarelo TN219YBR CX 1 UN;Suprimento;Cartucho
+5029;Cartucho toner p/ preto TN219XLBKB CX 1 UN;Suprimento;Cartucho
+5030;Cartucho toner p/ ciano TN219XLCBR CX 1 UN;Suprimento;Cartucho
+5031;Cartucho toner p/ magenta TN219XLMBR CX 1 UN;Suprimento;Cartucho
+5032;Cartucho toner p/ amarelo TN219XLYBR CX 1 UN;Suprimento;Cartucho
+5033;Impressora LED Color laser HLL3240CDW CX 1 UN;Hardware;Impressora
+199722;Lâmina de corte padrão p/ ScanNCut CABLDP1 CX 1 UN;Hardware;Máquina de Costura
+199729;Esteira de Digitalização de 30x30cm CAMATS12 BT 1 UN;Suprimento;Outros Suprimentos
+213044;Impressora laser . HL1212W CX 1 UN;Hardware;Impressora
+213115;Impressora laser 110v HL-L1232W CX 1 UN;Hardware;Impressora
+213117;Multifuncional laser 110v DCP-L1632W CX 1 UN;Hardware;Multifuncional
+213122;Multifuncional tanque de tinta Colorido DCP-T830DW CX 1 UN;Hardware;Multifuncional
+217004;Cartucho toner p/ preto TN213BK CX 1 UN;Suprimento;Cartucho
+217005;Cartucho toner p/ ciano TN213C CX 1 UN;Suprimento;Cartucho
+217006;Cartucho toner p/ magenta TN213M CX 1 UN;Suprimento;Cartucho
+217007;Cartucho toner p/ amarelo TN213Y CX 1 UN;Suprimento;Cartucho
+217333;Cartucho toner p/ preto TN3472BR CX 1 UN;Suprimento;Cartucho
+217335;Cartucho toner p/ magenta TN413MBR CX 1 UN;Suprimento;Cartucho
+217336;Cartucho toner p/ ciano TN413CBR CX 1 UN;Suprimento;Cartucho
+217339;Cartucho p/ ciano LC3039C CX 1 UN;Suprimento;Cartucho
+217365;Cartucho toner p/ preto TN2470BR UN 1 UN;Suprimento;Cartucho
+217372;Cartucho p/ ciano LC3037C CX 1 UN;Suprimento;Cartucho
+217379;Cartucho p/ preta LC406BKS UN 1 UN;Suprimento;Cartucho
+217380;Cartucho p/ ciano LC406CS UN 1 UN;Suprimento;Cartucho
+217381;Cartucho p/ magenta LC406MS UN 1 UN;Suprimento;Cartucho
+217382;Cartucho p/ amarelo LC406YS UN 1 UN;Suprimento;Cartucho
+217415;Cartucho toner p/ preto TN3442BR CX 1 UN;Suprimento;Cartucho
+217425;Cartucho p/ amarelo LC3029Y CX 1 UN;Suprimento;Cartucho
+217468;Cartucho p/ amarelo LC79Y CX 1 UN;Suprimento;Cartucho
+217495;Cartucho p/ ciano LC505C CX 1 UN;Suprimento;Cartucho
+217514;Cartucho toner p/ amarelo TN217YBR CX 1 UN;Suprimento;Cartucho
+217515;Cartucho toner p/ magenta TN217MBR CX 1 UN;Suprimento;Cartucho
+217516;Cartucho toner p/ ciano TN217CBR CX 1 UN;Suprimento;Cartucho
+217517;Cartucho toner p/ preto TN217BKBR CX 1 UN;Suprimento;Cartucho
+217526;Cartucho toner p/ preto TN420BR CX 1 UN;Suprimento;Cartucho
+217714;Cartucho toner p/ preto TN450BR CX 1 UN;Suprimento;Cartucho
+220451;Multifuncional tanque de tinta Colorido DCPT720DW CX 1 UN;Hardware;Multifuncional
+220468;Multifuncional laser . DCPL5512DN CX 1 UN;Hardware;Multifuncional
+220470;Multifuncional laser . MFCL5912DW CX 1 UN;Hardware;Multifuncional
+220473;Scanner portátil de mesa ADS1300 CX 1 UN;Hardware;Scanner
+220475;Scanner portátil de mesa Wireless ADS1800W CX 1 UN;Hardware;Scanner
+220583;Multifuncional laser DCP-B7520DW CX 1 UN;Hardware;Multifuncional
+220638;Multifuncional laser . DCP1617NW CX 1 UN;Hardware;Multifuncional
+221360;Etiqueta p/impr. térmica contínua 62mmx30,4m DK2205 CX 1 UN;Suprimento;Etiqueta
+225947;Impressora Sublimática jato de tinta SP-1 CX 1 UN;Hardware;Impressora
+312704;Fita p/rotulador 12mmx8m prata M931 BT 1 UN;Hardware;Rotulador
+312708;Fita p/rotulador 9mmx8m prata m921 BT 1 UN;Hardware;Rotulador
+312710;Fita p/rotulador 9mmx8m dourada m821 BT 1 UN;Hardware;Rotulador
+312729;Fita p/rotulador 12mmx8m branco/preto TZE335 BT 1 UN;Hardware;Rotulador
+312734;Etiqueta p/impr. térmica contínua 102mmx30,48m DK2243 CX 1 UN;Suprimento;Etiqueta
+312745;Fita p/rotulador 12mmx8m preto/branco TZE231 BT 1 UN;Hardware;Rotulador
+312774;Fita p/rotulador 18mm preto/branco TZe241 BT 1 UN;Hardware;Rotulador
+312783;Fita p/rotulador 18mm preto/amarelo TZe641 BT 1 UN;Hardware;Rotulador
+312790;Fita p/rotulador 12mm preto/branco TZeFX231 BT 1 UN;Hardware;Rotulador
+312875;Fita p/rotulador 24mmx8m laminada pt/bc TZE-251 BT 1 UN;Hardware;Rotulador
+312889;Fita p/rotulador preto/transparente TZe131 BT 1 UN;Hardware;Rotulador
+312893;Fita p/rotulador 12mm preto/branco TZeS231 BT 1 UN;Hardware;Rotulador
+312895;Fita p/rotulador 24mm preto/amarelo TZeS651 BT 1 UN;Hardware;Rotulador
+312896;Fita p/rotulador 18mm preto/azul TZe541 BT 1 UN;Hardware;Rotulador
+665220;Rotulador eletrônico portátil PTH110 CX 1 UN;Hardware;Rotulador
+665228;Rotulador Eletrônico portátil PTH110BK CX 1 UN;Hardware;Rotulador
+665233;Rotulador eletrônico portátil c/ 3 fitas PTD210BP CX 1 UN;Hardware;Rotulador
+665235;Rotulador eletrônico portátil c/ 3 fitas PTP300BTBP CX 1 UN;Hardware;Rotulador
+665287;Rotulador eletrônico portátil PTE560BTVP CX 1 UN;Hardware;Rotulador
+665942;Scanner portátil de mesa c/ wi-fi ADS4700W UN 1 UN;Hardware;Scanner
+675996;Máquina para recorte c/Scanner ScanNCut 220v SDX125V CX 1 UN;Hardware;Scanner
+675997;Máquina para recorte c/Scanner ScanNCut 110v SDX225 CX 1 UN;Hardware;Scanner
+676006;Máquina para recorte c/Scanner ScanNCut 110v SDX125 CX 1 UN;Hardware;Scanner
+676040;Esteira adesiva de baixa aderência 30x30cm CADXMATLOW PT 1 UN;Suprimento;Outros Suprimentos
+676053;Esteira adesiva de baixa aderência 30x30cm CAMATLOW12 PT 1 UN;Suprimento;Outros Suprimentos
+676085;Esteira de Digitalização de 30x30cm CADXMATS12 UN 1 UN;Suprimento;Outros Suprimentos
+676096;Cartão de ativação p/ CanvasW. Print to Cut CADXPRNTCU UN 1 UN;Suprimento;Outros Suprimentos
+676114;Máquina de Costura mecânica c/14pts 220v JS2135BRV CX 1 UN;Hardware;Máquina de Costura
+797701;Refil p/InkTank preto BT6001BK CX 1 UN;Suprimento;Refil de Tinta
+800002;Impressora térmica p/etiquetas QL800 CX 1 UN;Hardware;Impressora
+800018;Impressora térmica p/etiquetas QL810W CX 1 UN;Hardware;Impressora
+5001;Cilindro p/ laser DR411CL CX 1 UN;Suprimento;Cilindro
+5018;Cilindro p/ laser DR213CL CX 1 UN;Suprimento;Cilindro
+5023;Cartucho toner p/ preto TN3612BR CX 1 UN;Suprimento;Cartucho
+5092;Reservatório de resíduo de toner WT220CL UN 1 UN;Suprimento;Toner
+213116;Impressora laser 220V HL-L1232WV CX 1 UN;Hardware;Impressora
+217334;Cartucho toner p/ amarelo TN413YBR CX 1 UN;Suprimento;Cartucho
+217337;Cartucho toner p/ preto TN413BKBR CX 1 UN;Suprimento;Cartucho
+217340;Cartucho p/ magenta LC3039M CX 1 UN;Suprimento;Cartucho
+217353;Cartucho toner p/ preto TN419BKBR CX 1 UN;Suprimento;Cartucho
+217354;Cartucho toner p/ ciano TN419CBR CX 1 UN;Suprimento;Cartucho
+217355;Cartucho toner p/ magenta TN419MBR CX 1 UN;Suprimento;Cartucho
+217356;Cartucho toner p/ amarelo TN419YBR CX 1 UN;Suprimento;Cartucho
+217368;Cartucho p/ preto LC3037BK PT 1 UN;Suprimento;Cartucho
+217370;Cartucho p/ magenta LC3037M CX 1 UN;Suprimento;Cartucho
+217371;Cartucho p/ amarelo LC3037Y CX 1 UN;Suprimento;Cartucho
+217383;Cartucho p/ preta LC406XLBKS CX 1 UN;Suprimento;Cartucho
+217384;Cartucho p/ ciano LC406XLCS UN 1 UN;Suprimento;Cartucho
+217385;Cartucho p/ magenta LC406XLMS UN 1 UN;Suprimento;Cartucho
+217386;Cartucho p/ amarelo LC406XLYS UN 1 UN;Suprimento;Cartucho
+217707;Cartucho toner p/ preto TN3382BR CX 1 UN;Suprimento;Cartucho
+220339;Multifuncional A3 Jato de Tinta MFCJ5855DW CX 1 UN;Hardware;Multifuncional
+220403;Multifuncional laser color . MFCL8610DW CX 1 UN;Hardware;Multifuncional
+220439;Multifuncional laser color MFC L8900CDW CX 1 UN;Hardware;Multifuncional
+220449;Multifuncional tanque de tinta Colorido 110v DCPT420W CX 1 UN;Hardware;Multifuncional
+220450;Multifuncional tanque de tinta Colorido DCPT520W CX 1 UN;Hardware;Multifuncional
+221320;Etiqueta p/impressora térmica 62mmx100mm DK1202 RL 300 UN;Hardware;Impressora
+221359;Etiqueta p/impressora térmica 29mmx62mm DK1209 RL 1 UN;Hardware;Impressora
+312712;Fita p/rotulador 12mmx4m cetim ouro/mar TZE-RN34 CX 1 UN;Hardware;Rotulador
+312716;Fita p/rotulador 12mmx4m rx/pt TZE-MQF31 CX 1 UN;Hardware;Rotulador
+312728;Fita p/rotulador 12mmx8m ECO pt/am TZE631 BT 1 UN;Hardware;Rotulador
+312759;Fita p/rotulador c/ 03 fitas TZE231M3 CX 1 UN;Hardware;Rotulador
+312769;Fita p/rotulador 24mm preto/amarelo TZe651 BT 1 UN;Hardware;Rotulador
+312770;Fita p/rotulador 9mm branco/preto TZe325 CX 1 UN;Hardware;Rotulador
+312792;Fita p/rotulador 18mm preto/prata fosco TZeS941 BT 1 UN;Hardware;Rotulador
+312795;Fita p/rotulador 24mm preto/transparente TZES151 BT 1 UN;Hardware;Rotulador
+312799;Fita p/rotulador 9mm preto/branco TZeS221 BT 1 UN;Hardware;Rotulador
+312885;Fita p/rotulador 24mm preto/amarelo TZeFX651 BT 1 UN;Hardware;Rotulador
+312886;Fita p/rotulador 24mm preto/branco TZeFX251 BT 1 UN;Hardware;Rotulador
+478798;Papel A4 térmico PAC411 PT 100 UN;Suprimento;Outros Suprimentos
+665218;Rotulador eletrônico branco PT-P700 CX 1 UN;Hardware;Rotulador
+665219;Rotulador eletrônico portátil PT-D210 CX 1 UN;Hardware;Rotulador
+665236;Adaptador de tomada p/ Rotuladores AD24A CX 1 UN;Hardware;Rotulador
+665284;Rotulador eletrônico portátil PTE310BTVP CX 1 UN;Hardware;Rotulador
+676101;Máquina de Bordado p/ uso doméstico bivolt BP1530LBRD UN 1 UN;Hardware;Máquina de Costura
+5024;Cartucho toner p/ preto TN3612XLBR CX 1 UN;Suprimento;Cartucho
+213085;Impressora laser color HL- L8360CDW CX 1 UN;Hardware;Impressora
+217423;Cartucho p/ ciano LC3029C CX 1 UN;Suprimento;Cartucho
+217424;Cartucho p/ preto LC3029BK CX 1 UN;Suprimento;Cartucho
+220241;Multifuncional tanque de tinta Colorido 220v DCPT420WV CX 1 UN;Hardware;Multifuncional
+220338;Multifuncional A3 Jato de Tinta MFCJ6955DW CX 1 UN;Hardware;Multifuncional
+220469;Multifuncional laser . DCPL5662DN CX 1 UN;Hardware;Multifuncional
+312715;Fita p/rotulador 12mmx4m cetim pt/bc TZE-R231 CX 1 UN;Hardware;Rotulador
+312793;Fita p/rotulador 24mm preto/branco TZeS251 BT 1 UN;Hardware;Rotulador
+312890;Fita p/rotulador preto/verde TZe741 BT 1 UN;Hardware;Rotulador
+665223;Rotulador eletrônico portátil PTE110 CX 1 UN;Hardware;Rotulador
+666037;Scanner portátil . DS740D CX 1 UN;Hardware;Scanner
+666038;Scanner portátil . DS940DW CX 1 UN;Hardware;Scanner
+676108;Lâmina de corte aut p/tec e feltr ScanNCut SDX CADXBLDR1 BT 1 UN;Hardware;Máquina de Costura
+217834;Cartucho toner p/ preto TN650BR CX 1 UN;Suprimento;Cartucho
+220437;Multifuncional tanque de tinta Colorido MFCT4500DW CX 1 UN;Hardware;Multifuncional
+312741;Fita p/rotulador 9mmx8m preto/branco tz 221 BT 1 UN;Hardware;Rotulador
+312754;Fita p/rotulador 12mmx8m mk631 BT 1 UN;Hardware;Rotulador
+312755;Fita p/rotulador c/3 fitas M231 e 1 M231M3 CX 1 UN;Hardware;Rotulador
+312758;Fita p/rotulador c/3 fitas MV3D/M931 E 2 M231 CX 1 UN;Hardware;Rotulador
+312775;Fita p/rotulador 36mm preto/amarelo TZe661 BT 1 UN;Hardware;Rotulador
+312794;Fita p/rotulador 24mm preto/prata fosco TZeS951 BT 1 UN;Hardware;Rotulador
+312796;Fita p/rotulador 36mm preto/amarelo TZeS661 BT 1 UN;Hardware;Rotulador
+676095;Cartão de ativação p/ Illustrator Scanncut CADXSNCLNK UN 1 UN;Hardware;Máquina de Costura
+217338;Cartucho p/ preto LC3039BK CX 1 UN;Suprimento;Cartucho
+220474;Scanner portátil de mesa Wireless ADS1350W CX 1 UN;Hardware;Scanner
+221322;Etiqueta p/impressora térmica 29mmx30,48m 2210 CX 1 UN;Hardware;Impressora
+312887;Fita p/rotulador branco/preto TZe345 BT 1 UN;Hardware;Rotulador
+665118;Rotulador eletrônico portátil PTH110PK CX 1 UN;Hardware;Rotulador
+676044;Espátula de plástico p/recorte CASCP1 PT 1 UN;Suprimento;Outros Suprimentos
+676093;Bastidor extra grande (26x16cm) SA441 UN 1 UN;Suprimento;Outros Suprimentos
+775322;Adaptador AC padrão para PJ763 e PJ773 PAAD600A CX 1 UN;Suprimento;Cilindro
+5034;Multifuncional LED Color laser DCPL3560CD CX 1 UN;Hardware;Multifuncional
+5095;Reservatório de resíduo de toner WT320CL UN 1 UN;Suprimento;Toner
+217487;Cartucho p/ amarelo LC105Y CX 1 UN;Suprimento;Cartucho
+217525;Cartucho toner p/ preto TN410BR CX 1 UN;Suprimento;Cartucho
+217527;Cartucho p/ preto LC109BK CX 1 UN;Suprimento;Cartucho
+312731;Etiqueta p/impressora térmica 17mmx54mm DK1204 RL 400 UN;Hardware;Impressora
+665239;Rotulador portátil PTD410 CX 1 UN;Hardware;Rotulador
+675991;Máquina para recorte c/Scanner ScanNCut 220v SDX85V CX 1 UN;Hardware;Scanner
+676046;Rolo de Fixação - CABRY1 PT 1 UN;Suprimento;Outros Suprimentos
+676052;Esteira adesiva de aderência padrão 30x30cm CAMATSTD12 PT 1 UN;Suprimento;Cilindro
+676094;Bobinas Acrílicos Original c/ 10un SA156 UN 1 UN;Suprimento;Outros Suprimentos
+312797;Fita p/rotulador 36mm preto/prata fosco TZeS961 BT 1 UN;Hardware;Rotulador
+217471;Cartucho p/ preto LC79BK CX 1 UN;Suprimento;Cartucho
+220467;Impressoras Laser Mono . HLL5212DW CX 1 UN;Hardware;Impressora
+312883;Fita p/rotulador 24mm branco/preto TZE355 BT 1 UN;Hardware;Rotulador
+675998;Máquina para recorte c/Scanner ScanNCut 220v SDX225V CX 1 UN;Hardware;Scanner
+676116;Rolo Alimentador . CADXRF2 PT 1 UN;Suprimento;Outros Suprimentos
+5022;Cartucho toner p/ preto TN3602XXLB CX 1 UN;Suprimento;Cartucho
+5114;Unidade de correia p/ BU229CL CX 1 UN;Suprimento;Outros Suprimentos
+218783;Cilindro p/ laser DR116 CX 1 UN;Suprimento;Cilindro
+220472;Multifuncional laser . DCPB7650DW CX 1 UN;Hardware;Multifuncional
+666036;Scanner portátil . DS640 CX 1 UN;Hardware;Scanner
+676008;Máquina de Bordado autovolt BP2150LDV CX 1 UN;Hardware;Máquina de Costura
+213113;Impressora laser 110v HL-L1222 CX 1 UN;Hardware;Impressora
+312727;Fita p/rotulador 12mmx3m tecido az/bc TZEFA3 BT 1 UN;Hardware;Rotulador
+312785;Fita p/rotulador 24mm preto/transparente TZe151 BT 1 UN;Hardware;Rotulador
+312787;Fita p/rotulador 36mm preto/transparente TZe161 BT 1 UN;Hardware;Rotulador
+312791;Fita p/rotulador 18mm preto/branco TZeS241 BT 1 UN;Hardware;Rotulador
+312894;Fita p/rotulador 18mm preto/amarelo TZeS641 BT 1 UN;Hardware;Rotulador
+676041;Esteira adesiva de aderência padrão 30x60cm CADXMATSTD PT 1 UN;Suprimento;Cilindro
+676078;Bastidor oval pequeno (2x6cm) SA437 UN 1 UN;Suprimento;Outros Suprimentos
+5019;Cilindro de impressão DR2440 UN 1 UN;Suprimento;Cilindro
+199728;Folha adesiva para múltiplas aplicações CASTBL2 PT 1 UN;Suprimento;Outros Suprimentos
+217341;Cartucho p/ amarelo LC3039Y CX 1 UN;Suprimento;Cartucho
+665222;Rotulador eletrônico de mesa PTP950NW CX 1 UN;Hardware;Rotulador
+676012;Máquina de Costura autovolt SQ9100DV CX 1 UN;Hardware;Máquina de Costura
+676019;Bastidor pequeno 2x6cm PE770/PE810L SA442 PT 1 UN;Suprimento;Outros Suprimentos
+312714;Fita p/rotulador 12mmx4m cetim ouro/bc TZE-R234 CX 1 UN;Hardware;Rotulador
+665119;Rotulador eletrônico portátil PTH110TB CX 1 UN;Hardware;Rotulador
+676106;Máquina de Costura 110v ST371HDBR CX 1 UN;Hardware;Máquina de Costura
+220522;Multifuncional laser DCP-L2540DW CX 1 UN;Hardware;Multifuncional
+676109;Máquina de Costura mecânica c/14pts 110v VX1445BR CX 1 UN;Hardware;Máquina de Costura
+213114;Impressora laser 220V HL-L1222V CX 1 UN;Hardware;Impressora
+221316;Etiqueta p/impressora térmica 17mmx87mm DK1203 RL 300 UN;Hardware;Impressora
+312777;Fita p/rotulador 6mm preto/branco TZe211 BT 1 UN;Hardware;Rotulador
+312798;Fita p/rotulador 9mm preto/ amarelo TZeS621 BT 1 UN;Hardware;Rotulador
+217422;Cartucho p/ magenta LC3029M CX 1 UN;Suprimento;Cartucho
+312702;Fita p/rotulador 12mmx8m azul m531 BT 1 UN;Hardware;Rotulador
+312772;Fita p/rotulador 12mm azul/branco MK233 BT 1 UN;Hardware;Rotulador
+312888;Fita p/rotulador preto/ouro M831 BT 1 UN;Hardware;Rotulador
+676117;Kit lamina rotativa CADXRBKIT1 PT 1 UN;Suprimento;Outros Suprimentos
+217476;Cartucho p/ preto LC107BK CX 1 UN;Suprimento;Cartucho
+312891;Fita p/rotulador vermelho/branco TZe232 BT 1 UN;Hardware;Rotulador
+312709;Etiqueta p/impr. térmica contínua 62mmx15,2m DK2251 CX 1 UN;Suprimento;Etiqueta
+217469;Cartucho p/ ciano LC79C CX 1 UN;Suprimento;Cartucho
+676104;Máquina de Bordado autovolt BE915LBRDV CX 1 UN;Hardware;Máquina de Costura
+312780;Fita p/rotulador 12mm branco/transparente TZe135 BT 1 UN;Hardware;Rotulador
+676045;Espátula e gancho, Kit CASPHK1 PT 1 UN;Suprimento;Outros Suprimentos
+312733;Etiqueta p/impr. térmica contínua 29mmx15,24m DK2211 CX 1 UN;Suprimento;Etiqueta
+676081;Bastidor médio (10x10cm) SA432 UN 1 UN;Suprimento;Outros Suprimentos
+5035;Cilindro p/ laser DR219CL CX 1 UN;Suprimento;Cilindro
+5093;Reservatório de resíduo de toner WT223CL UN 1 UN;Suprimento;Toner
+213118;Multifuncional tanque de tinta Colorido DCP-T230 CX 1 UN;Hardware;Multifuncional
+312776;Fita p/rotulador 36mm preto/branco TZe261 BT 1 UN;Hardware;Rotulador
+312884;Fita p/rotulador 18mm preto/branco TZeFX241 BT 1 UN;Hardware;Rotulador
+676015;Bastidor gde 17,8x12,7cm - 13x18cm NQ1400/BP2100 SA439 PT 1 UN;Suprimento;Outros Suprimentos
+676016;Bastidor grande 10x16cm PE450/NV950D SA434 PT 1 UN;Suprimento;Outros Suprimentos
+312781;Fita p/rotulador 18mm azul/branco TZe243 BT 1 UN;Hardware;Rotulador
+670582;Software de criação PEDESIGN 11 PEDESIGN11 UN 1 UN;Suprimento;Outros Suprimentos
+676042;Esteira adesiva de baixa aderência 30x60cm CADXMATLOW PT 1 UN;Suprimento;Outros Suprimentos
+5020;Cilindro p/ laser DR3602 CX 1 UN;Suprimento;Cilindro
+5112;Unidade de correia p/ BU330CL CX 1 UN;Suprimento;Outros Suprimentos
+312882;Fita p/rotulador 18mm preto/vermelho TZe441 BT 1 UN;Hardware;Rotulador
+676050;Suporte de Caneta universal CAUNIPHL1 PT 1 UN;Suprimento;Outros Suprimentos
+676077;Bastidor oval médio (10x10cm) SA438 UN 1 UN;Suprimento;Outros Suprimentos
+676099;Lâmina de corte automática p/ vinil Scanncut CADXBLDV1 UN 1 UN;Hardware;Máquina de Costura
+312773;Fita p/rotulador 12mm preto/verde M731 BT 1 UN;Hardware;Rotulador
+312786;Fita p/rotulador 3,5mm preto/branco TZeN201 BT 1 UN;Hardware;Rotulador
+312892;Fita p/rotulador vermelho/preto MK232 BT 1 UN;Hardware;Rotulador
+665944;Scanner portátil de mesa alta prod. c/ wi-fi ADS4900W UN 1 UN;Hardware;Scanner
+675999;Suporte de Lâmina automática preta CADXHLD1 CX 1 UN;Suprimento;Outros Suprimentos
+775333;Estojo de transporte p/ PJ763 e PJ773 PACC500 UN 1 UN;Suprimento;Outros Suprimentos
